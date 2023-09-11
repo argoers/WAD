@@ -1,2 +1,2 @@
 # WAD
-Õpin
+Õpin informaatikat
